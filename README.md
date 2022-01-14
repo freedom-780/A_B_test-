@@ -1,4 +1,4 @@
-# A_B_test-website 
+# A_B_test-ecommerce site
 
 This is an AB test using ecommerce site data to determine is the new site is better than the old site for converting users.
 Regression and bootstraping methods were used to determine the conclusion. 
